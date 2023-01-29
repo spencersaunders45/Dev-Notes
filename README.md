@@ -3,6 +3,4 @@
 - [Data Structures](/data-structures/)
 - [Hacking](/hacking/)
 - [Languages](/languages/)
-- [Logic](/logic/)# Dev-Notes
-# Dev-Notes
-# Dev-Notes
+- [Logic](/logic/)
